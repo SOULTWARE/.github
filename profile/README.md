@@ -1,7 +1,9 @@
 # ![CodeX computing](https://user-images.githubusercontent.com/25227022/183262802-895c0a36-cd4d-46ec-a2ab-bf70b9b6010c.png)
 
-#### This is the home of CodeX computing. Here you will find all sort of open sorce projects, and more. 
-### We Build the future
+#### This is the home of CodeX computing. Here you will find all sorts of open sorce projects, and more. 
+### Let's Build the future of the Web
+
+
 
 <!--
 
