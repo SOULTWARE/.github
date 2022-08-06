@@ -4,6 +4,8 @@
 ### Let's Build the future of the Web
 
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="header image" width="100%"/>
+
 
 <!--
 
