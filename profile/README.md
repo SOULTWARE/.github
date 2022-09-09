@@ -1,6 +1,10 @@
 # ![CodeX computing](https://user-images.githubusercontent.com/25227022/183262802-895c0a36-cd4d-46ec-a2ab-bf70b9b6010c.png)
 
-#### This is the home of CodeX computing. Here you will find all sorts of open sorce projects, and more. 
+#### This is the home of CodeX computing. Here you will find all sorts of open sorce projects, and more.
+
+CodeX Computing provides end-to-end software solutions to small and independent businesses, and creates open-source projects.
+if you have an idea to improve one of our open-source projects feel free to open an issue and share your great ideas, or if you want to contribute you can fork the project and open a Pull Request with the Fixes or changes you want to contribute 
+
 ### Let's Build the future of the Web
 
 
